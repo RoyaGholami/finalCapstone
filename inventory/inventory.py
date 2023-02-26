@@ -2,7 +2,7 @@ from tabulate import tabulate
 import os
 
 # constants
-FILE_PATH = "./Task 32/inventory.txt"
+FILE_PATH = "./inventory.txt"
 
 # global variables
 shoe_list = []
