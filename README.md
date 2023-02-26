@@ -7,7 +7,6 @@ This Python program implements a simple inventory management system for shoes. I
 
 This program requires Python 3 and the `tabulate` module to be installed. You can install `tabulate` using pip:
 
-Copy code
 
 `pip install tabulate` 
 
@@ -19,7 +18,6 @@ Copy code
     
 3.  Run the following command to start the program:
     
-    Copy code
     
     `python shoe_inventory.py` 
     
@@ -60,14 +58,12 @@ The program defines the following functions:
 ## How to use the program
 When you run the `main.py` file, you will be presented with a menu of options:
 
-markdownCopy code
-
-`1. Load data from file
-2. Capture new shoes
-3. View all shoes
-4. Re-stock shoes
-5. Search for a shoe by code
-6. Exit` 
+    1. Load data from file
+    2. Capture new shoes
+    3. View all shoes
+    4. Re-stock shoes
+    5. Search for a shoe by code
+    6. Exit
 
 ### Load Data from File
 
