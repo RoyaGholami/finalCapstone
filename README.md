@@ -88,3 +88,18 @@ The fifth option allows you to search for a shoe by its code. You will be prompt
 ### Exit
 
 The sixth option allows you to exit the program.
+
+
+## Data File
+
+The program uses a data file named `inventory.txt` to store the shoe inventory data. The file is formatted as a CSV file with the following columns:
+
+-   Country
+-   Code
+-   Product
+-   Cost
+-   Quantity
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
